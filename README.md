@@ -7,5 +7,8 @@ Isak, Arnell, Evan
 JSON-svar:
 ```json
 {
-    //TODO Lägg till JSON svar
+    "title": "MalmöFF",
+    "description": "Malmös nya maychtröja!!",
+    "imageUrl": "http://localhost:5112/api/ads/malmoff.jpg",
+    "linkUrl": "http://localhost:5112/api/ad/malmoff.html"
 }
