@@ -3,4 +3,12 @@
 GET {{Api_HostAddress}}/weatherforecast/
 Accept: application/json
 
-###
+### testa malmö ff
+
+GET http://localhost:5112/api/ad/13.0/55.6
+
+### Testa Stockholm 
+GET http://localhost:5112/api/ad/18.0/59.3
+
+### Testa Norrland
+GET http://localhost:5112/api/ad/20.0/63.0
