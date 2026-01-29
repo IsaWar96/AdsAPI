@@ -9,7 +9,7 @@ JSON-svar:
 { 
   "title": "Malmö FF",
   "description": "Malmös nya maychtröja!!",
-  "imgUrl": "http://localhost:5112/ads/malmoff.jpg",
-  "htmlUrl": "http://localhost:5112/malmoff.html"
+  "imgUrl": "/ads/malmoff.jpg",
+  "htmlUrl": "/ads/malmoff.html"
 
 }
