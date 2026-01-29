@@ -8,7 +8,7 @@ JSON-svar:
 ```json
 { 
   "title": "Malmö FF",
-  "description": "Malmös nya maychtröja!!",
+  "description": "Malmös nya matchtröja!!",
   "imgUrl": "/ads/malmoff.jpg",
   "htmlUrl": "/ads/malmoff.html"
 

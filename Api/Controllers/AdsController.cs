@@ -16,7 +16,7 @@ public class AdsController : ControllerBase
             return Ok(new Ad
             {
                 Title = "Malmö FF",
-                Description = "Malmös nya maychtröja!!",
+                Description = "Malmös nya matchtröja!!",
                 ImgUrl = "/ads/malmoff.jpg",
                 HtmlUrl = "/ads/malmoff.html"
             });
@@ -27,7 +27,7 @@ public class AdsController : ControllerBase
             return Ok(new Ad
             {
                 Title = "Stockholm Energi",
-                Description = "Stockholm suger... ut koldioxid ur atmosfären.",
+                Description = "VÄLJ RÄTT EL I STOCKHOLM!",
                 ImgUrl = "/ads/Stockholmenergi.jpg",
                 HtmlUrl = "/ads/stockholmenergi.html"
             });
