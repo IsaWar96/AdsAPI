@@ -17,8 +17,8 @@ public class AdsController : ControllerBase
             {
                 Title = "Malmö FF",
                 Description = "Malmös nya matchtröja!!",
-                ImgUrl = "/ads/malmoff.jpg",
-                HtmlUrl = "/ads/malmoff.html"
+                ImgUrl = "ads/malmoff.jpg",
+                HtmlUrl = "ads/malmoff.html"
             });
         }
         // Stockholm
@@ -28,8 +28,8 @@ public class AdsController : ControllerBase
             {
                 Title = "Stockholm Energi",
                 Description = "VÄLJ RÄTT EL I STOCKHOLM!",
-                ImgUrl = "/ads/Stockholmenergi.jpg",
-                HtmlUrl = "/ads/stockholmenergi.html"
+                ImgUrl = "ads/Stockholmenergi.jpg",
+                HtmlUrl = "ads/stockholmenergi.html"
             });
         }
         // Norrland
@@ -39,8 +39,8 @@ public class AdsController : ControllerBase
             {
                 Title = "Norrlands Guld",
                 Description = "Var dig själv för en stund.",
-                ImgUrl = "/ads/Norrlands_Guld.jpg",
-                HtmlUrl = "/ads/norrlandsguld.html"
+                ImgUrl = "ads/Norrlands_Guld.jpg",
+                HtmlUrl = "ads/norrlandsguld.html"
             });
         }
     }
