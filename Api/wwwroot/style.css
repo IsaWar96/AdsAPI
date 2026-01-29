@@ -1,0 +1,30 @@
+body{
+    text-align: center;
+    margin-top: 50; 
+}
+
+
+.Rubrikmalmo{
+    font-size: 48px;       
+    font-weight: bold;     
+    color: #4A90E2;        
+    margin-bottom: 20px;
+}
+
+
+.Rubriknorrland{
+    font-size: 48px;       
+    font-weight: bold;     
+    margin-bottom: 20px;
+   
+}
+
+
+
+.Rubrikstockholm{
+    font-size: 48px;       
+    font-weight: bold;     
+    color: #bb4ddf;        
+    margin-bottom: 20px;
+    
+}
