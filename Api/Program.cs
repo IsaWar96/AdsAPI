@@ -20,6 +20,9 @@ builder.Services.AddCors(options =>
 
 var app = builder.Build();
 
+//Använder bilderna i wwwrootmappen
+app.UseStaticFiles();
+
 // Denna hör ihop med CORS-inställningen ovan
 app.UseCors();
 
