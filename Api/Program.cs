@@ -18,6 +18,8 @@ builder.Services.AddCors(options =>
     });
 });
 
+builder.Services.AddControllers();
+
 var app = builder.Build();
 
 //Använder bilderna i wwwrootmappen
